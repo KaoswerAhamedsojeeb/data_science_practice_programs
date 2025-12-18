@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Rahim Uddin",
+    "age": 25,
+    "ratings": 4.5,
+    "product": "Wireless Earbuds"
+  },
+  {
+    "name": "Karim Hossain",
+    "age": 32,
+    "ratings": "three",
+    "product": "Smart Watch"
+  },
+  {
+    "name": "Shima Akter",
+    "age": 21,
+    "ratings": 4.8,
+    "product": "Bluetooth Speaker"
+  },
+  {
+    "name": "Nafis Ahmed",
+    "age": 29,
+    "ratings": 4.1,
+    "product": "Laptop Bag"
+  },
+  {
+    "name": "Mim Chowdhury",
+    "age": 23,
+    "ratings": "Five",
+    "product": "Phone Case"
+  },
+  {
+    "name": "Bashir Khan",
+    "ratings": 3.5,
+    "product": "Gaming Mouse"
+  },
+  {
+    "name": "Tania Sultana",
+    "age": 27,
+    "ratings": 4.2,
+    "product": "Keyboard"
+  },
+  {
+    "name": "Jahid Hasan",
+    "age": 30,
+    "ratings": 4.7,
+    "product": "Power Bank"
+  },
+  {
+    "name": "Sadia Noor",
+    "age": 22,
+    "ratings": 3.8,
+    "product": "Portable SSD"
+  },
+  {
+    "name": "Rifat Rahman",
+    "age": 28,
+    "ratings": 4.6,
+    "product": "USB-C Charger"
+  },
+   { "name": "Karim Hossain",
+    "age": 32,
+    "ratings": "three",
+    "product": "Smart Watch"
+   }
+]
